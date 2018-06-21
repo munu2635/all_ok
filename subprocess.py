@@ -6,6 +6,6 @@ try :
 	if result != null :
 		print(result)
 
-	else 
+	else :
 		print("result is null")
 
